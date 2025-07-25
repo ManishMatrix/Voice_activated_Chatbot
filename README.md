@@ -14,7 +14,7 @@ This Python-based voice assistant listens to your speech, transcribes it, sends 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/voicegpt-assistant.git
+git clone https://github.com/ManishMatrix/Voice_activated_Chatbot.git
 cd voicegpt-assistant
 2. Install dependencies
 pip install openai pyttsx3 SpeechRecognition
